@@ -1,0 +1,65 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: url() no-repeat;
+	background-size: cover;
+
+}
+
+.login-box {
+	width: 323px;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -40%);
+	
+
+}
+.login-box h1 {
+	float: left;
+	font-size: 40px;
+	border-bottom: 4px solid black;
+	margin-bottom: 50px;
+	text-align: center;
+	padding: 13px;
+
+}
+
+.textbox {
+	float: center;
+	width: 80%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	text-align: center;
+	border-bottom: 1px solid #FFD700;
+}
+
+.fa {
+	width: px;
+	float: left;
+	text-align: center;
+}
+
+.textbox input {
+	border: none;
+	outline: none;
+	background: none;
+	font-size: 18px;
+	margin: 0 10px;
+
+}
+
+.button {
+	width: 80%;
+	padding: 8px;
+	color: #ffffff;
+	background: none black;
+	border: none;
+	border-radius: 61px;
+	font-size: 18px;
+	cursor: pointer;
+	margin: 12px 0;
+
+}
